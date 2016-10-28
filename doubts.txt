@@ -1,0 +1,46 @@
+Not working
+
+1.Photos, 2.Sharing, 3.Rate this App, 4. Quotes display delay > can't move the slider smoothly,meaning that when we tap the slider it works, can't drag,
+5. About2 page links > displaying err msg "you're almose there" 6.Contact > App support > going to Badges page( wrong title) 7.Contact > 2morrowinc selection is not functioning
+8. FB logout> Please logout is not responsive 9. FB logout > Even though we didn't login it shows FB logout 10. Habit details > Notes > Export is not functioning
+10.Terms of service > support email link 
+
+0.Move arrow is displaying some other iconsz
+1. Is the coach code equivalent to upgrade? I can see the cc , can I use?Coach code > register and unregister ? functionalities
+2. Quotes ? functionality
+3. Rate this app is not working
+4. About2 page links > displaying err msg "you're almose there"
+5. Contact > App support > going to Badges page
+6. Contact > 2morrowinc > not working
+7. Options > Stats ? functionality
+
+1.Could you check this move arrow, is it showing correctly?
+2.Habit details > Options > The stats unit for that habit is only for viewing the statistical chart and data, is it correct?. In which habit we need to set more than two units?
+
+
+1.I have a doubt in test procedure step 21,22 . I would like to know about the stat functionality. And also I like to get the stat test data to check the statistical chart and table reports.
+2.Overdue reminders > Dynamic remainders> After we entering the custom time and tap left arrow, it is 'showing 5 reminders transactions queued ....' messages . Is it a bug? 
+
+I would letting you know , In HTC one S (Android 4.0.4) , it shows our app half inch down, it impacts the bottom bar functions which are partially visible. 
+Particularly, while displaying 'Habit details' page, either top bar will disappear or bottom bar functions are partially visible.
+
+1.Help > Report issues > Why can't I > The content of the email draft is not filled completely
+2. Help > Report issues > Help menu page disappeared after cancelling the report issues email draft
+3. Help > Web link > improvement
+
+10/14/16
+
+1. Habit details>Remainders>Scheduled remainder> schedule2 should not take the time before schedule1,Reset is in wrong place... improvement
+2. HD>Progress page is not closing when we tap Notes and Support graph 
+
+2. 
+
+
+10/12/2016
+
+1.App version mismatch > App version displaying in the phone setting is different from Help > Report Issue ver
+2.Habit details > Motivational and Reward pictures are not showing in the habit details page(from gallary and camera) 
+3.Dynamic remainders > 2 Remainders coming for the same habit ( but when we open the message only one is showing )
+4.In the reward page, set the milestone 2(7 days) , gave past 7 days(actually gave 10 days) input and it didn't change the milestone and progress %. Does it need to change the status to 'Completed'?. Reward text and pic also didn't come. 
+
+
