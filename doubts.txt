@@ -1,3 +1,7 @@
+
+
+testing git
+
 Not working
 
 1.Photos, 2.Sharing, 3.Rate this App, 4. Quotes display delay > can't move the slider smoothly,meaning that when we tap the slider it works, can't drag,
